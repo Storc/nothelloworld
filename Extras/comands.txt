@@ -1,0 +1,34 @@
+sudo apt-get install libomp-dev
+nano name.cpp
+g++-o name fopenmp name.cpp
+./name
+
+
+
+sudo apt-get install libomp-dev
+note or txt mke editer cpp file example.cpp
+g++ -fopenmp example.cpp -o example
+./example
+
+
+
+
+source ~/anaconda3/bin/activate 
+source ~/anaconda3/bin/activate root
+ 
+conda info --envs
+
+
+
+anaconda-navigator'
+
+
+
+
+
+
+
+
+
+
+sudo dmesg  -c
